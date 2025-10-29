@@ -1,5 +1,11 @@
 # Assignment 01 – Golf Ball Performance Analysis
 
+## Author  
+**Name:** Sarujan Puvirajan  
+**Student ID:** 24156736  
+**Email:** [saru.contacts@gmail.com](mailto:saru.contacts@gmail.com)  
+**Mobile:** +44 7466 289817 
+
 ## 📘 Overview
 This project analyzes the **Par Inc. Golf Ball Testing Dataset**, which compares the driving distances achieved by current and new golf ball models.  
 The goal is to determine whether the new golf ball performs better than the current model using descriptive statistics and basic R graphics.
